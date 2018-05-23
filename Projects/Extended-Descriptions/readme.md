@@ -1,3 +1,6 @@
+## Rendered View of Demo
+[Extended Descriptions Demo](https://benetech.github.io/DIAGRAM-Code-Sprint-2018/Projects/Extended-Descriptions/)
+
 ## Description of Approach
 For every image, there will exist a button, which has been styled to look consistent across various instances. This button can be positioned on top of the image. For now, we're assuming lower-left. The behavior of this button is as follows.
 
